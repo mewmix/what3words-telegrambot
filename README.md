@@ -7,3 +7,5 @@ Install
 ##### pip3 install requirements.txt
 ### make sure to add your keys in bot.py
 ##### python3 bot.py 
+
+##### https://t.me/What3WordsTGBot - see in action ! 
